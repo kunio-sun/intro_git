@@ -1,2 +1,3 @@
 git ディレクトリ作成テスト
 Git プッシュ
+Git add git commit
