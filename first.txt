@@ -3,3 +3,4 @@ Git プッシュ
 Git add git commit
 Git rm
 Git stupas
+Git diff
